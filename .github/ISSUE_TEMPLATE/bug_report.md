@@ -1,36 +1,38 @@
 ---
 name: Bug report
 about: Create a report to help us improve
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
-Thanks for stopping by to let us know something could be better!
+**Describe the bug**
+A clear and concise description of what the bug is.
 
-**PLEASE READ**: If you have a support contract with Google, please create an issue in the [support console](https://cloud.google.com/support/) instead of filing on GitHub. This will ensure a timely response.
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
 
-Please run down the following list and make sure you've tried the usual "quick fixes":
+**Expected behavior**
+A clear and concise description of what you expected to happen.
 
-  - Search the issues already opened: https://github.com/googleapis/google-api-php-client/issues
-  - Search StackOverflow: http://stackoverflow.com/questions/tagged/google-cloud-platform+php
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
 
-If you are still having issues, please be sure to include as much information as possible:
+**Desktop (please complete the following information):**
+ - OS: [e.g. iOS]
+ - Browser [e.g. chrome, safari]
+ - Version [e.g. 22]
 
-#### Environment details
+**Smartphone (please complete the following information):**
+ - Device: [e.g. iPhone6]
+ - OS: [e.g. iOS8.1]
+ - Browser [e.g. stock browser, safari]
+ - Version [e.g. 22]
 
-  - OS:
-  - PHP version:
-  - Package name and version:
-
-#### Steps to reproduce
-
-  1. ...
-
-#### Code example
-
-```php
-# example
-```
-
-Making sure to follow these steps will guarantee the quickest resolution possible.
-
-Thanks!
+**Additional context**
+Add any other context about the problem here.
